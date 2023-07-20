@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinsFuture&show_icons=dracula&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinsFuture&show_icons=dracula&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinsFuture&layout=compact&theme=dracula)
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white) ![JavaSpring](https://img.shields.io/badge/JavaSpring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)

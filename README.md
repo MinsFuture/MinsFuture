@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
 ![Java](https://img.shields.io/badge/Java-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>

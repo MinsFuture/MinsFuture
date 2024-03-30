@@ -3,7 +3,7 @@
 
 
 ## Skills
-### 😙 A technology I am confident in
+### 😙 A technology stack I am confident in
 <img src="https://img.shields.io/badge/springboot-00AF5C?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;

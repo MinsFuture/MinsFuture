@@ -15,7 +15,7 @@
 
 ### 📝 A technology stack I am studying
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;
+<!-- <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp; -->
 
 ## Sns
 <p>

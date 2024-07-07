@@ -3,7 +3,7 @@
 
 
 ## Skills
-### 😙 A technology stack I am confident in
+### 😙 A technology stack I am studying
 <img src="https://img.shields.io/badge/springboot-00AF5C?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
@@ -12,10 +12,11 @@
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>&nbsp;
 ![Java](https://img.shields.io/badge/Java-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📝 A technology stack I am studying
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
-<!-- <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp; -->
+
+
+<!--  ### 📝 A technology stack I am studying
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp; -->
 
 ## Sns
 <p>
